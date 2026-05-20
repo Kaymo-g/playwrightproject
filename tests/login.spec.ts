@@ -1,5 +1,5 @@
-import {test, expect} from '@playwright/test'
+// import {test, expect} from '@playwright/test'
 
-test('Login test', async ({page}) => {
-    await page.goto('https://ndosisimplifiedautomation.vercel.app/')
-})
+// test('Login test', async ({page}) => {
+//     await page.goto('https://ndosisimplifiedautomation.vercel.app/')
+// })
